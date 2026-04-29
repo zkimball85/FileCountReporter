@@ -56,7 +56,7 @@ Extension          | Count
 No Extension       | 5
 
 Total Files: 295
-
+```
 
 ## Troubleshooting
 
